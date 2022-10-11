@@ -1,4 +1,4 @@
-name: CI Github Action
+name: CI Github Action RN
 on:
   push:
     branches: [ master ]
